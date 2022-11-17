@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_My Cart_img-responsive img-thumbnail</name>
+   <tag></tag>
+   <elementGuidId>3fb19acc-6222-44c1-aa69-b79f514359c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-responsive.img-thumbnail</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a2d49740-c44f-4bef-984b-5fea50bc35e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-responsive img-thumbnail</value>
+      <webElementGuid>7129011e-5d6f-4a58-ad4d-e7aab0b9b07b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>./bootstrap/img/mobile_app.jpg</value>
+      <webElementGuid>3e2c5d6b-2394-47e6-a2bd-2a2c10873c25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3&quot;]/a[1]/img[@class=&quot;img-responsive img-thumbnail&quot;]</value>
+      <webElementGuid>eb762449-4c25-4d12-b6a9-af8147fe0ae6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div/a/img</value>
+      <webElementGuid>9d366f5d-8fa6-426e-8707-05b30309f5b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>9268191e-7f2a-4543-a252-5a81a2010e98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = './bootstrap/img/mobile_app.jpg']</value>
+      <webElementGuid>6d2bb2e4-8422-4e8c-afa8-35c7930de1df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Books are categorized by their publishers to help users easier to find</description>
+   <name>publisher</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8cbc1e94-db43-4b53-8b39-194f9167732d</testCaseGuid>
+</TestCaseEntity>

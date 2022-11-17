@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_C 14 Quick Syntax Reference, 2nd Edition_3ea1fb</name>
+   <tag></tag>
+   <elementGuidId>dca0db4d-15c4-4c88-9d6f-5e8cc8d50859</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/form/table/tbody/tr[2]/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>c77f041b-a2c1-4795-b3c5-11d6f8d6cd3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>C++ 14 Quick Syntax Reference, 2nd Edition by 	Mikael Olsson</value>
+      <webElementGuid>59d822fc-196e-4687-8e23-01c50193a9ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/form[1]/table[@class=&quot;table&quot;]/tbody[1]/tr[2]/td[1]</value>
+      <webElementGuid>772e9230-2439-4227-9e52-5df7561a3eb0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/form/table/tbody/tr[2]/td</value>
+      <webElementGuid>a3d9f8f6-1c62-4058-a5f7-a7f8bafcb5ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/following::td[1]</value>
+      <webElementGuid>c20246e7-b520-4cef-a9bf-9932e877fb2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantity'])[1]/following::td[1]</value>
+      <webElementGuid>3819eb9c-1591-4858-bd37-ac717414717e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$20.00'])[1]/preceding::td[1]</value>
+      <webElementGuid>c6f93ce3-e605-477e-95ab-d0f0528bd7fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$20'])[1]/preceding::td[3]</value>
+      <webElementGuid>37b20743-ec90-4ca0-8f68-bab8e3b91f56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>222dec61-e7e0-4991-b261-a43a287b1e12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'C++ 14 Quick Syntax Reference, 2nd Edition by 	Mikael Olsson' or . = 'C++ 14 Quick Syntax Reference, 2nd Edition by 	Mikael Olsson')]</value>
+      <webElementGuid>0d6bd9f3-9b86-4ece-84cb-04551da1d1ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

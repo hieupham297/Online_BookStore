@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_My Cart_img-responsive img-thumbnail_1</name>
+   <tag></tag>
+   <elementGuidId>3251f5e9-64d8-46ae-860c-d0597301203f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div[2]/div[4]/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>77748cf4-cb6e-41d7-b859-414dbf99a259</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-responsive img-thumbnail</value>
+      <webElementGuid>ccc5a307-0725-4c44-b8d8-4b5ede46e9dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>./bootstrap/img/pro_asp4.jpg</value>
+      <webElementGuid>6a377b15-a54b-467a-a500-e8cf9237b077</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3&quot;]/a[1]/img[@class=&quot;img-responsive img-thumbnail&quot;]</value>
+      <webElementGuid>9a0b93ed-0616-4a99-98bb-296ae0af38c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div[2]/div[4]/a/img</value>
+      <webElementGuid>5200ced0-febd-4af5-b3b1-d5f9c23e6231</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]/a/img</value>
+      <webElementGuid>d2413948-3898-4977-acb7-1df9229160c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = './bootstrap/img/pro_asp4.jpg']</value>
+      <webElementGuid>4fd92b67-ed4e-4c28-8fe5-abe4d8434054</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

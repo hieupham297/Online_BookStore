@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Learning Mobile App Development by Jakob_9fe3b4</name>
+   <tag></tag>
+   <elementGuidId>17d2dd4e-641d-4ba8-9d30-3db62a945255</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/form/table/tbody/tr[3]/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>095aec59-3979-48e4-945e-076d9e3e3646</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Learning Mobile App Development by Jakob Iversen, Michael Eierman</value>
+      <webElementGuid>a340f9ce-ed36-4150-8bc9-e249fdf09b4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/form[1]/table[@class=&quot;table&quot;]/tbody[1]/tr[3]/td[1]</value>
+      <webElementGuid>5cc0caf8-cfaf-4b69-9d90-f7690c9363a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/form/table/tbody/tr[3]/td</value>
+      <webElementGuid>10b8bc25-888a-43eb-9b96-ecb9f4db9528</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$20'])[1]/following::td[1]</value>
+      <webElementGuid>5b5c3599-2520-4f2f-ac81-64449fcb8586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$20.00'])[1]/following::td[3]</value>
+      <webElementGuid>d1902a2e-2d7b-4c7d-b330-11378c1dc3b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$20.00'])[2]/preceding::td[1]</value>
+      <webElementGuid>00ad30dc-c14c-4c3b-a4d7-eb9bf5b62d96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$20'])[2]/preceding::td[3]</value>
+      <webElementGuid>b3a53935-64ef-4a25-a169-e4d9d4734bf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Learning Mobile App Development by Jakob Iversen, Michael Eierman']/parent::*</value>
+      <webElementGuid>5217e990-2adc-4b73-be34-0fb91037a7dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td</value>
+      <webElementGuid>57185912-912a-47c5-b68c-10addeed97cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Learning Mobile App Development by Jakob Iversen, Michael Eierman' or . = 'Learning Mobile App Development by Jakob Iversen, Michael Eierman')]</value>
+      <webElementGuid>99b8ed5e-584d-4d88-96ca-eadab4815a19</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>legend_Contact</name>
+   <tag></tag>
+   <elementGuidId>49be3830-d729-4d42-90ff-ff8f22423d29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div[2]/form/fieldset/legend</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>legend</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>legend</value>
+      <webElementGuid>89c99c5b-16be-4872-969e-cc4e2bb7cdc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contact</value>
+      <webElementGuid>82f97629-45dd-465e-a9d6-b8d4538e5597</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 text-center&quot;]/form[@class=&quot;form-horizontal&quot;]/fieldset[1]/legend[1]</value>
+      <webElementGuid>e2ec964a-b71d-4019-a6a1-b5c0d5b63988</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[2]/form/fieldset/legend</value>
+      <webElementGuid>f15c1b0b-1ec8-454a-a329-190139405d8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/preceding::legend[1]</value>
+      <webElementGuid>069332bc-399a-45cc-b4c1-2d79c1483d31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/preceding::legend[1]</value>
+      <webElementGuid>dfc49bd5-c0fb-440c-a9cf-180672f40aee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//legend</value>
+      <webElementGuid>c9bbca43-a4de-4e53-8968-e0018053da87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//legend[(text() = 'Contact' or . = 'Contact')]</value>
+      <webElementGuid>34df6835-6e41-4c2b-803f-53d5c293aee4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

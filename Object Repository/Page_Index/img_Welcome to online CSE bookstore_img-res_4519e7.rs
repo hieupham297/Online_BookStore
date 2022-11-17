@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Welcome to online CSE bookstore_img-res_4519e7</name>
+   <tag></tag>
+   <elementGuidId>03db662a-a024-49a5-b47d-8abd18caf335</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-responsive.img-thumbnail</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>69a4e2ff-998f-4818-86d6-2ec2ba3e62f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-responsive img-thumbnail</value>
+      <webElementGuid>444a2c7c-1067-4183-abc2-5c8c9766e89f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>./bootstrap/img/c_sharp_6.jpg</value>
+      <webElementGuid>21cfbd25-bb72-41a0-b3c2-7c28ac597f4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3&quot;]/a[1]/img[@class=&quot;img-responsive img-thumbnail&quot;]</value>
+      <webElementGuid>2aa580f5-bf42-4ef9-9afb-02478d6fa58c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div/a/img</value>
+      <webElementGuid>49bffb4d-8ec0-4925-9621-a5d6fae32956</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>350743e1-8afa-42c8-9cbc-9e9fe92c408f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = './bootstrap/img/c_sharp_6.jpg']</value>
+      <webElementGuid>854960da-9c27-4eb2-a043-93454f388fae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

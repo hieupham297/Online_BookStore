@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin can add a book into the list</description>
+   <name>add_a_book</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0c6c510e-570e-49a3-a0b1-bf30d2b20468</testCaseGuid>
+</TestCaseEntity>

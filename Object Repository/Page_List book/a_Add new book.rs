@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add new book</name>
+   <tag></tag>
+   <elementGuidId>a8978ac0-a8cd-4d97-ae63-41101ef6dc21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/p/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.lead > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ffece319-acf5-4ff7-90c4-9fa2eabf683e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>admin_add.php</value>
+      <webElementGuid>8f601d2b-97ea-4aa1-860e-343bfd2ec893</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add new book</value>
+      <webElementGuid>3647e9d5-78d8-4c8f-b10a-f5ef03bc6c3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/p[@class=&quot;lead&quot;]/a[1]</value>
+      <webElementGuid>d0d62fde-66f5-470a-a30a-2f76fa8eb0eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/p/a</value>
+      <webElementGuid>e44c0ca4-28b1-4c44-a0e3-be3a7773adff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Add new book')]</value>
+      <webElementGuid>53a00d23-30b1-4545-98bd-80c03a97dd00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign out!'])[1]/preceding::a[1]</value>
+      <webElementGuid>92e5a5c9-caab-4a1b-9cdf-89c559e6f2b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ISBN'])[1]/preceding::a[2]</value>
+      <webElementGuid>4558db7b-5f0b-4028-9b05-1835444e2de9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add new book']/parent::*</value>
+      <webElementGuid>219dc2db-bf7c-4bd8-838d-14ad9d858ca4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'admin_add.php')]</value>
+      <webElementGuid>d5ccae8f-92a3-4387-906f-d6dcbf38eae2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a</value>
+      <webElementGuid>8689b34d-17c7-4641-97ee-dc7330a63b81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'admin_add.php' and (text() = 'Add new book' or . = 'Add new book')]</value>
+      <webElementGuid>e70a898d-e22c-46c9-af7d-37b927b42aef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

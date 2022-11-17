@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_VISA                  MasterCard    _b53c2c</name>
+   <tag></tag>
+   <elementGuidId>94aafcf1-851b-498a-b272-662344db8791</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='card_type']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;card_type&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d4599885-80b4-4988-9120-8f706967670e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>7ef4c395-68e8-40d9-94d4-c5c34898fae4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>card_type</value>
+      <webElementGuid>3d297868-0fbb-433a-81f4-d09bcd9b1787</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  	VISA
+                  	MasterCard
+                  	American Express
+              	</value>
+      <webElementGuid>83a6b736-4ca5-4eb5-afd0-d8b50c20d6c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-lg-10&quot;]/select[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>daad27de-7485-45fb-a884-6c8f746eea20</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='card_type']</value>
+      <webElementGuid>5a725496-4533-4fc2-b5ef-9be8754fbe3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/form/div/div/select</value>
+      <webElementGuid>19aed3a3-c096-498e-8587-2c8cbbefb22e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type'])[1]/following::select[1]</value>
+      <webElementGuid>f869fa70-96b3-4e6f-aba0-77e08569882c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$60'])[1]/following::select[1]</value>
+      <webElementGuid>abf37bf3-4101-46d4-9b40-05a1760279c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Number'])[1]/preceding::select[1]</value>
+      <webElementGuid>7b0549ed-7345-4f71-9d82-59bdf0706f98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PID'])[1]/preceding::select[1]</value>
+      <webElementGuid>48114900-4d2f-4bf7-bcdb-c8677cca0fd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>d5b5f939-dbae-4523-aedb-d86f7fa81a84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'card_type' and (text() = '
+                  	VISA
+                  	MasterCard
+                  	American Express
+              	' or . = '
+                  	VISA
+                  	MasterCard
+                  	American Express
+              	')]</value>
+      <webElementGuid>45ba4472-9d4e-4825-8aa9-0780cd7c72b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Full Catalogs of Books</name>
+   <tag></tag>
+   <elementGuidId>f8eae0e5-416e-4840-9d4c-840176a6fcbc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.lead.text-center.text-muted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b7e10799-e572-4c6d-b352-46b726629f34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lead text-center text-muted</value>
+      <webElementGuid>f3963b68-15a2-4dec-ac30-e4e37a6c8b93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Full Catalogs of Books</value>
+      <webElementGuid>fc12d352-5430-45c4-81bb-99f351e23c02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/p[@class=&quot;lead text-center text-muted&quot;]</value>
+      <webElementGuid>d837492e-c4e9-4ae1-9d45-a4d3392dc20e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/p</value>
+      <webElementGuid>c95062f6-6aae-4acb-9f69-a8b25348aca3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='projectworlds'])[1]/preceding::p[1]</value>
+      <webElementGuid>289271b9-37d9-4a63-9d24-57aa91cd8e25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin Login'])[1]/preceding::p[1]</value>
+      <webElementGuid>622fdf7c-d8f5-4dd5-b551-a7e0dd497ad6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>db9b3cea-053a-4626-95e4-1ef0bced43a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Full Catalogs of Books' or . = 'Full Catalogs of Books')]</value>
+      <webElementGuid>acb78b91-ba3c-40b5-8fa8-8894c39c0b5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_C 6.0 in a Nutshell, 6th Edition by Jose_8714a3</name>
+   <tag></tag>
+   <elementGuidId>42d0a637-f38d-4c54-9279-6b1c1f4a5808</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/form/table/tbody/tr[2]/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>d5a7551b-4835-491c-b9fa-5a0ec9ed4088</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>C# 6.0 in a Nutshell, 6th Edition by Joseph Albahari, Ben Albahari</value>
+      <webElementGuid>91505885-c0a8-4e0c-a7f9-ee766b2ca0c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/form[1]/table[@class=&quot;table&quot;]/tbody[1]/tr[2]/td[1]</value>
+      <webElementGuid>ee39c267-89b4-4455-bf4a-34352f6e95ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/form/table/tbody/tr[2]/td</value>
+      <webElementGuid>4ffe1fe4-0a30-40a2-8d62-e0e4c9cf102d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/following::td[1]</value>
+      <webElementGuid>7ecb6e73-1bc1-4e3f-9c28-fbc49fd02411</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantity'])[1]/following::td[1]</value>
+      <webElementGuid>dedbca7f-2263-4765-8d35-102f83caf25a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$20.00'])[1]/preceding::td[1]</value>
+      <webElementGuid>746178fb-601e-463c-aa4b-a76dd6ef8745</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$20'])[1]/preceding::td[3]</value>
+      <webElementGuid>a6f30035-44a1-4798-95f2-91fcf7a3f3d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='C# 6.0 in a Nutshell, 6th Edition by Joseph Albahari, Ben Albahari']/parent::*</value>
+      <webElementGuid>8bf11c62-2425-40e7-91cf-6feb5a0d9f11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>42022353-c48f-4479-8165-f0b909f1a6bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'C# 6.0 in a Nutshell, 6th Edition by Joseph Albahari, Ben Albahari' or . = 'C# 6.0 in a Nutshell, 6th Edition by Joseph Albahari, Ben Albahari')]</value>
+      <webElementGuid>cbdce494-9777-498a-b21c-7ae122d9d1ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
